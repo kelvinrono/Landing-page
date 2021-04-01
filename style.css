@@ -142,3 +142,16 @@ footer{
 .unie h2{
     margin-top: 20px;
 }
+.imagep img{
+    height: 23vh;
+    width: 40vw;
+    margin-left: 10px;
+}
+.imagep>p{
+    font-size: 23px;
+}
+article marquee{
+    position: absolute;
+    padding-bottom:10px;
+    font-size: 20px;
+}
