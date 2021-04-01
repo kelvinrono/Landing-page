@@ -115,3 +115,30 @@ footer{
 
     background-image: linear-gradient( to bottom,#817e7f, #ba4552  );
 }
+.abt{
+    background-image: url("./images/bg.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+    
+
+}
+.mypic{
+    z-index: -10;
+    right: 30px;
+    transform: rotate(-30deg);
+    transform: 0.2s ease;
+     height: 40vh;
+    width: 30vw;
+}
+.ft{
+    position:absolute;
+    bottom: 0px;
+}
+.unie{
+    margin: 10px 0px;
+    width: 40vh;
+}
+.unie h2{
+    margin-top: 20px;
+}
