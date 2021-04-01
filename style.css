@@ -15,6 +15,7 @@ nav{
     height: 10vh;
     background-color:#A68790;
     color: black;
+    width: 80vw;
 
 }
 nav ul{
@@ -46,7 +47,7 @@ nav ul li a{
     height:35vh;
     
 }
-img{
+.img{
     width:20vw;
 }
 article{
@@ -56,3 +57,28 @@ article{
     width: 80vw;
     background-image: linear-gradient(to bottom, #66cccc, #66cc) ;
 }
+footer{
+    background-color: black;
+    height: 20vh;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.socialmedia img{
+    width: 5vw;
+    height: 5vh;
+    margin-right: 10px;
+    
+    
+    }
+
+    .socialmedia{
+        display: flex;
+        /* width:25vw; */
+        justify-content: space-evenly;
+    }
+    /* .copyright{
+        width: 25vw
+    } */
