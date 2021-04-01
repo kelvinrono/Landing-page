@@ -6,10 +6,16 @@ body{
     background-color: #E5E5E5;
     margin: 0px;
     box-sizing: border-box;
+    background-color:;
 }
-.container{
+.container1{
     width: 80%;
     margin:0px auto;
+}
+.container2{
+    width: 80%;
+    margin:0px auto;
+    background-color: ;
 }
 nav{
     height: 10vh;
@@ -84,3 +90,9 @@ footer{
     /* .copyright{
         width: 25vw
     } */
+.imagep{
+    width: 80vw;
+    height: 30vh;
+    background-image: url("./images/prog3.jpg");
+    background-size: cover;
+}
